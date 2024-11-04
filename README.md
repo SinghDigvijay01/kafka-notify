@@ -1,4 +1,4 @@
-# Kafka Notify: Real-Time Notification System
+# Kafka Notify : Real-Time Notification System
 
 This project is a simple real-time notification system built with **Go**, **Kafka**, and **Gin**. It demonstrates how to send, consume, and retrieve notifications between users using a Kafka producer and consumer architecture.
 
@@ -28,7 +28,7 @@ This system includes two main components:
 1. **Clone the Repository**
 
    ```bash
-  git clone https://github.com/SinghDigvijay01/kafka-notify.git
+   git clone https://github.com/SinghDigvijay01/kafka-notify.git
    
 2. **Start the Producer**
 

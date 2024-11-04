@@ -46,9 +46,9 @@ This system includes two main components:
    
    ```bash
    curl -X POST http://localhost:8080/send \
-   -d "fromID=2&toID=1&message=Bruno started following you."
+   -d "fromID=userId&toID=userID&message=............."
    
 5. **Retrieve Notifications**
    
    ```bash
-   curl http://localhost:8081/notifications/1
+   curl http://localhost:8081/notifications/userId
